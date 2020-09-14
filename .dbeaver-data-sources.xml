@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-1694fa3f355-5760912ad35d4ad" provider="mysql" driver="mysql5" name="MySQL - localhost" save-password="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="" url="jdbc:mysql://localhost:3306/" user="root" password="HQERbVFCVwUSHRQ6d/c=" home="/usr" type="dev">
+			<provider-property name="@dbeaver-serverTimezone@" value="America/Toronto"/>
+		</connection>
+	</data-source>
+	<filters/>
+</data-sources>
